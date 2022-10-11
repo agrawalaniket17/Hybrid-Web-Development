@@ -1,0 +1,141 @@
+    .cv-head{
+        font-size: 35px;
+        font-weight: bold;
+        font-family: Arial ;
+        margin-top:0px;
+        background-color: greenyellow;
+        text-align: center;
+        padding: 16px;    
+        text-decoration: underline;
+        border-radius: 50%;  
+        overflow:hidden;
+        font-style: oblique;
+        }
+    .cv-hr{
+        height: 3px;
+        border: 2px solid black;
+        border-radius: 10px;
+        background: linear-gradient(to left, yellow,green);
+    }
+    .cv-hr2{
+        border-style:dashed;  
+        width:80%;
+              }
+    .cv-body{
+        font-size: 30px;
+        font-weight: bold;
+        background-color:greenyellow;
+        text-align: center;
+        border-radius: 50%;
+        text-decoration: underline;
+    }
+    .cv-body2{
+        font-size:14px;
+        font-family: Arial, Helvetica, sans-serif;
+        border-radius: 50%;
+    }
+    .cv-body3{
+        margin-top:3px;
+        text-align: center;
+        border-radius: 50%;
+        text-shadow:2px 2px #6af05b;
+        font-size: larger;
+    }
+    .cv-text{
+        font-weight: bold;
+        font-size:25px;
+        background-color: greenyellow;
+        text-align: center;
+        border-radius: 50%;
+        text-decoration: underline;
+    }
+    .cv-text2{
+        font-weight: bold;
+        background-color: greenyellow;
+        padding: 6px;
+        font-size: 24px;
+        text-align:center;
+        border-radius: 50%;
+        text-decoration: underline;
+    }
+    .cv-key{
+        text-align: center;
+        font-size: 25px;
+        font-weight: bold;
+        background-color:greenyellow;
+        text-align: center;
+        border-radius: 50%;
+        text-decoration: underline;
+        padding: 5px;
+    }
+    .cv-ex{
+        text-align: center;
+        font-size: 25px;
+        font-weight: bold;
+        background-color:greenyellow;
+        text-align: center;
+        border-radius: 50%;
+        text-decoration: underline;
+        padding: 5px;
+    }
+    .cv-hr3{
+        border-style:solid;  
+        width:20%;
+        color: yellowgreen;
+        width: 80%;
+        height: 2px;
+    }
+    .cv-hr4{
+        border-style:outset;
+        width:80%;
+        border-color: rgb(116, 190, 225);
+    }
+    .cv-hr5{
+        border-style:ridge;  
+        width:80%;
+    }
+    .cv-hr6{
+        border-style:dashed;  
+        background-color: aqua;
+        border-color: aqua;
+        width:80%;
+        border-style: groove;
+    }
+    .cv-end{
+        background-color: rgb(211, 250, 122);
+        padding:6px;
+        text-decoration:dotted;
+        border-radius: 5px;
+        font-style: italic;
+        font-weight: bolder;
+        text-decoration: solid;
+        
+    }
+    .cv-det{
+       font-family:fantasy;
+       font-stretch:expanded;
+       font-weight: bolder;
+       text-decoration:double;  
+    }
+    .details-loc{
+        cursor:pointer;
+        text-decoration: underline;
+    }
+    .info-loc:hover{
+        cursor:pointer;
+        text-decoration: underline;
+    }
+    .link:hover{
+        background-color:pink;
+        opacity: 2s;
+        box-shadow: 5px 5px 10px rgba(20,20,30,0.225);
+        border-style:solid;
+        border-width:1px;
+        height:33px;
+        border:25px;
+        padding:3px;
+        border-color: black;
+    }
+    .link:active{
+        background-color: aquamarine;
+    }
