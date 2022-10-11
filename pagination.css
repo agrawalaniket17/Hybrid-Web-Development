@@ -1,0 +1,25 @@
+.description{
+    column-count:3;
+    column-gap: 40px;
+    column-rule-style:solid ;
+    column-rule-width: 2px;
+    column-rule-color: red;
+    color:rgb(149, 7, 7);
+}
+.center{
+    text-align: center;
+}
+.pagination{
+    display:inline-block;
+}
+.pagination a{
+color:yellowgreen;
+float:left;
+margin: 0.7em;
+padding: 16px;
+text-decoration: navy;
+}
+.pagination a:active{
+    background-color: blueviolet;
+    color:brown;
+}
